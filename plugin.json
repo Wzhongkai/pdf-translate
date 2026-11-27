@@ -1,0 +1,11 @@
+{
+  "name": "pdf-translate",
+  "displayName": "PDF 学术论文翻译 (Hydrogen)",
+  "version": "1.1.0",
+  "description": "Translate English academic paper PDFs into Chinese monolingual PDFs using pdf2zh_next (BabelDOC + DocLayout-YOLO) for layout, formula, figure, table, code-block, and TOC preservation, paired with Gemini 4 Hydrogen for high-quality paragraph translation.",
+  "suggestedPrompts": [
+    "帮我把这篇英文论文 PDF 翻译成中文单语版",
+    "用 Hydrogen 翻译这个目录下的论文 PDF 并保留原排版",
+    "翻译这篇 PDF 并按中文标题重命名、清理中间产物"
+  ]
+}
